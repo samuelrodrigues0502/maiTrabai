@@ -180,4 +180,4 @@ O projeto demonstra a implementação de um produto mobile funcional com integra
 
 ## Autor
 
-Samuel Rodrigues Viana de Faria
+Samuel Rodrigues Viana de Faria.
