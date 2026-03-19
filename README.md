@@ -181,3 +181,7 @@ lib/
 ## Autor
 
 Samuel Rodrigues
+
+## Licenca
+
+Definir.
