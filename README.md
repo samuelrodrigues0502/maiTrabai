@@ -155,6 +155,3 @@ lib/
 
 Samuel Rodrigues
 
-## Licenca
-
-Definir.
