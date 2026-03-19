@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "806512525122",
+    "project_id": "maitrabai-55069",
+    "storage_bucket": "maitrabai-55069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806512525122:android:8d29fdf7764992f1f8d2db",
+        "android_client_info": {
+          "package_name": "com.example.maitrabai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806512525122-jilpphnvhb9bomsmqgc0in4gvssq5mih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgWEs58Hgc4ME_V_QFiVdRtAV5Gmmssqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806512525122-jilpphnvhb9bomsmqgc0in4gvssq5mih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806512525122-rmh3e30283gsuj401envdk29snjh79uh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.maitrabai"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806512525122:android:d20c8f32453454a6f8d2db",
+        "android_client_info": {
+          "package_name": "ifmg.maiTrabai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806512525122-jilpphnvhb9bomsmqgc0in4gvssq5mih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgWEs58Hgc4ME_V_QFiVdRtAV5Gmmssqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806512525122-jilpphnvhb9bomsmqgc0in4gvssq5mih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806512525122-rmh3e30283gsuj401envdk29snjh79uh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.maitrabai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
